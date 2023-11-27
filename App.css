@@ -1,0 +1,103 @@
+/* App.css */
+
+.kawaii-container {
+  background-color: #ffc0cb; /* Fondo rosa suave */
+  padding: 20px;
+  text-align: center;
+}
+
+.kawaii-title {
+  font-size: 4em;
+  color: #fff; /* Letras de color blanco */
+}
+
+.kawaii-input {
+  font-size: 1.5em;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Broadway', cursive;
+  color: #731CE2
+}
+
+.kawaii-buttons button {
+  font-size: 1.5em;
+  padding: 10px;
+  margin: 5px;
+  background-color: #F433FF; 
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.kawaii-buttons button:hover {
+  background-color: #FAE590; /* Cambia de color al pasar el ratón */
+}
+
+.kawaii-result {
+  font-size: 1.5em;
+  
+}
+
+.kawaii-history {
+  font-size: 1.5em;
+  margin-top: 20px;
+  background-color: #A984D8;
+}
+
+.kawaii-table {
+  width: 60%;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.kawaii-table th, .kawaii-table td {
+  padding: 10px;
+  text-align: center;
+}
+.kawaii-arrow {
+  font-size: 1.5em;
+  margin: 0 5px; /* Ajusta el espaciado según sea necesario */
+}
+/* Aplicar colores del arcoíris a las filas de la tabla */
+/* Aplicar colores del arcoíris a las filas de la tabla */
+.kawaii-table tbody tr:nth-child(1) {
+  background-color: #FF4E33; /* Rojo */
+}
+
+.kawaii-table tbody tr:nth-child(2) {
+  background-color: #FF8533; /* Naranja */
+}
+
+.kawaii-table tbody tr:nth-child(3) {
+  background-color: #FBCB32; /* Amarillo */
+}
+
+.kawaii-table tbody tr:nth-child(4) {
+  background-color: #D5FB32; /* Verde */
+}
+
+.kawaii-table tbody tr:nth-child(5) {
+  background-color: #91FB32; /* Verde manzana */
+}
+
+.kawaii-table tbody tr:nth-child(6) {
+  background-color: #32FB9D; /* Turquesa */
+}
+
+.kawaii-table tbody tr:nth-child(7) {
+  background-color: #32DFFB; /* Azul claro */
+}
+
+.kawaii-table tbody tr:nth-child(8) {
+  background-color: #329DFB; /* Azul */
+}
+
+.kawaii-table tbody tr:nth-child(9) {
+  background-color: #324DFB; /* Azul oscuro */
+}
+
+.kawaii-table tbody tr:nth-child(10) {
+  background-color: #8A32FB; /* Morado */
+}
+
